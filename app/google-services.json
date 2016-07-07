@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "136649851475",
+    "firebase_url": "https://gshindi-27fbe.firebaseio.com",
+    "project_id": "gshindi-27fbe",
+    "storage_bucket": "gshindi-27fbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136649851475:android:2e5f2fa61a765da2",
+        "android_client_info": {
+          "package_name": "com.gshindi.android.gshindi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136649851475-pp6vsd3ij85pl10pb8fa8d0aeqoj6ub8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7O28K9G8IUeOy0R-Mc3UlAkWFY14S3Qs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

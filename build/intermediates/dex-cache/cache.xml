@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.2.0_a6846c8b103a1c7657950bc0655bd0cc8c16ad22.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_275d03c35cadf3e118db3b5d4bc266a95f9d6f47.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_fa5c9ad396ce67f5e72829b2e99a1a5a1ac35803.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2_20a1b476752ff0ffaa93066f43cd06dbf93a4700.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_db0261300808563217d51554b2b9837c69eb0844.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_292c3b49756d12197c83bffbe524f07177e2dc7b.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_8fd0079994158e9f308e96ac2dea9aeaedaf2cce.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.0_e65fa031bedaf59ff8dd5a84fe5d148cb337ae8e.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.2.0_49742f45451cefd8d4b6cbc74690e9cd9916654d.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.2.0_343387faa31f2ac7eef7116ecad0166657d54cab.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.2.0_adc3845d1668eabc169fcd9abd0f46b96d3a2757.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_2a9094acd96f1d1ec52ba2f90c9d5a614befd82b.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.2_5212d073c72ff2c04a765d0fe0de6bc96f69395d.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a038138600635d0eb14854367afbd0803f46982a.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/library-1.0.19_cc3b684d6ba0dd7bd46e08003a2eda69e68fe37e.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.2.0_7a92ae9d231a633a02c78ad9298cc8b84ff2a389.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.2.0_acb3bae14728cf7469c1799ae25d5d660f9639fe.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.0_e5de9b95a0c8d1fba9c8216322b11f7c958a81b2.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_8f756390d3b3ccc1f57479cf3db78fea92bfc061.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.2.0_d637aeea1de2b7016d895aa61e9bb7624590e394.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_78563388a0f8485e6639865d3b3361e4afc4fae4.jar" />
+    </item>
+    <item
+        jar="/Users/abhinavgarg/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/abhinavgarg/Desktop/GS/GSHINDI/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_b43eb4ab323029fe3a8d124f428752e566bd3811.jar" />
+    </item>
+
+</items>
